@@ -1,6 +1,6 @@
 {
   "name": "hubot-yahoo-geocoder",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A Hubot script that respond the URL of the specified address",
   "main": "index.js",
   "scripts": {
